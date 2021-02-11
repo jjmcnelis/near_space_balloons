@@ -11,7 +11,7 @@ The goal is to 3d print all unpowered components of the payload and supporting h
 * an enclosure for the LoRaWAN gateway (permanently located outdoors) which provides wide-area comms
 * a powered winch for controlled deployments of the test payload using a moored balloon (prototype phase)
 
-<img src="docs/img/readme_0.jpg" width="80%" />
+<img src="docs/img/readme_1.jpg" width="80%" />
 
 ### about the sensors/modules
 
@@ -19,7 +19,7 @@ The goal is to 3d print all unpowered components of the payload and supporting h
 
 Each aspect of the build will also be thoroughly documented in the wiki. This README is just for high-level info.
 
-<img src="docs/img/readme_1.jpg" width="80%" />
+<img src="docs/img/readme_0.jpg" width="80%" />
 
 *The photo above shows breadboard circuits for some of the payload modules.*
 
