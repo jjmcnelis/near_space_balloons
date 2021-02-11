@@ -1,31 +1,51 @@
+# Jack ignores (most are temporary)
+bin/
+docs/
+lib/
+script/
+src/
+test/
+.editorconfig
+.ycm_extra_conf.py
+bare-arduino.sublime-project
+Makefile-*
+
+# Arduino template
+.DS_Store
+bin/*/
+*build-*
+*build*
+*~
+build-tmp/
+Makefile
+doc/
+debug.txt
+.ycm_extra_conf.pyc
+.ropeproject
+
+## Github template
 # Prerequisites
 *.d
-
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
-
 # Precompiled Headers
 *.gch
 *.pch
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-
 # Fortran module files
 *.mod
 *.smod
-
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-
 # Executables
 *.exe
 *.out
