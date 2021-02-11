@@ -1,6 +1,7 @@
 # Jack ignores (most are temporary)
 bin/
-docs/
+docs/MyArduinoProject/
+docs/dev/
 lib/
 script/
 src/
